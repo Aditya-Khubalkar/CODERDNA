@@ -202,7 +202,6 @@ Contributions make the gene pool stronger. 💪
 
 <br/>
 
-Built with ❤️ and way too much caffeine by [**Aditya Khubalkar**](https://github.com/Aditya-Khubalkar)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,50:7B2FF7,100:00F5FF&height=140&section=footer" alt="footer" width="100%" />
 
