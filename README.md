@@ -103,16 +103,6 @@ flowchart LR
 
 ---
 
-## 🖼️ Preview
-
-<div align="center">
-
-<!-- Replace with real screenshots or a GIF, e.g. ./assets/preview.gif -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1E1B4B&height=220&section=header&text=Add%20your%20screenshot%20or%20demo%20GIF%20here&fontSize=24&fontColor=00F5FF&animation=twinkling" alt="Preview placeholder" width="90%" />
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
